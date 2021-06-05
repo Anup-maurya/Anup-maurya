@@ -28,7 +28,7 @@
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://techarge.in/) & make educational [YouTube Videos](https://www.youtube.com/channel/UCZ_PF5zujFtMkGk6IVwJX8g).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
 * Join my [Telegram Channel](https://t.me/techarge).
-*Apart from being a Programming & Graphic Designer , I really enjoy most of my free time learning new things because self-learning is good way to learn. During breaks, I watch sci-fi web shows ,fantasy and like watch news television shows to know what happening around the globe. Except this I also enjoy some of my time teaching others and viedo Editing.
+* Apart from being a Programming & Graphic Designer , I really enjoy most of my free time learning new things because self-learning is good way to learn. During breaks, I watch sci-fi web shows ,fantasy and like watch news television shows to know what happening around the globe. Except this I also enjoy some of my time teaching others and viedo Editing.
 * Ask me about anything, I'll be happy to help.
 <!-- -->
 <!--* I'm looking to collaborate on Open source project-->
