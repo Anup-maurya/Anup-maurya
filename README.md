@@ -1,10 +1,15 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Anup Kumar Maurya](https://anup-maurya.github.io/myresume/)
+
+
+![alt text](https://github.com/Anup-maurya/Anup-maurya/blob/main/cover2.png) 
+
+
+## Connect with me
 [<img height="30" src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white" />][website]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-![alt text](https://github.com/Anup-maurya/Anup-maurya/blob/main/cover2.png) 
 
 
 ### My Tech Toolbox 🧰
