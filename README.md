@@ -1,4 +1,5 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Anup Kumar Maurya](https://anup-maurya.github.io/myresume/)
+[<img height="30" src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white" />][website]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -47,7 +48,7 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{anup-maurya}/count.svg)
 
-
+[website]: https://techarge.in
 [twitter]: https://twitter.com/AnupKum77071928
 [youtube]: https://www.youtube.com/channel/UCZ_PF5zujFtMkGk6IVwJX8g
 [gmail]: https://9anup.maurya@gmail.com
