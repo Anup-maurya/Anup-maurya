@@ -60,3 +60,11 @@
 [linkedin]: https://www.linkedin.com/in/anupmaurya
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+ 
+ 
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-maurya&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anup Kumar Maurya's github stats](https://github-readme-stats.vercel.app/api?username=Anup-maurya&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
+
+
