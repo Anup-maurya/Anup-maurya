@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Anup Kumar Maurya](https://anup-maurya.github.io/myresume/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I am Anup Kumar Maurya](https://anup-maurya.github.io/myresume/)
 
 
 ![alt text](https://github.com/Anup-maurya/Anup-maurya/blob/main/cover2.png) 
