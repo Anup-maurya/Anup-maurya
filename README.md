@@ -59,12 +59,26 @@
 [gmail]: https://9anup.maurya@gmail.com
 [linkedin]: https://www.linkedin.com/in/anupmaurya
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
- 
+<h2>Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h2>
  
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-maurya&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anup Kumar Maurya's github stats](https://github-readme-stats.vercel.app/api?username=Anup-maurya&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
+
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anup-maurya&show_icons=true&theme=dark&include_all_commits=true&hide=issues"  alt="anup-mauryai" /></td>
+   </td>
+  </tr>
+  <tr>
+  <td>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anup-maurya&theme=dark" alt="anup-mauryai" />
+  </td>
+  
+  </tr>
+   <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anup-maurya&show_icons=true&theme=dark&locale=en&layout=compact" alt="anup-maurya" />
+  </tr>
+</table>
+
 
 
