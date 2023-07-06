@@ -46,7 +46,16 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anup-maurya&show_icons=true&theme=gotham" alt="Anup Kumar Maurya | Stats" />
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/Anup-maurya/github-stats">
+<img src="https://github.com/Anup-maurya/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Anup-maurya/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/Anup-maurya/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/Anup-maurya/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
 
 </details>
 
