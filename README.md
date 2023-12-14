@@ -1,7 +1,5 @@
 # <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Kumar Maurya
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/anup-maurya/langs)](https://githubtrends.io)
-
 
 ![alt text](https://github.com/Anup-maurya/Anup-maurya/blob/main/cover2.png) 
 
