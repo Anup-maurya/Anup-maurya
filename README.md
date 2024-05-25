@@ -10,7 +10,10 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+
 
 ### My Tech Toolbox 🧰
 
@@ -36,31 +39,12 @@
 * Join my [Telegram Channel](https://t.me/techarge).
 * Apart from being a Programming & Graphic Designer , I really enjoy most of my free time learning new things because self-learning is good way to learn. During breaks, I watch sci-fi web shows ,fantasy and like watch news television shows to know what happening around the globe. Except this I also enjoy some of my time teaching others and viedo Editing.
 * Ask me about anything, I'll be happy to help.
-<!-- -->
+
 <!--* I'm looking to collaborate on Open source project-->
 
----
-
-<table><tr><td valign="top" width="50%">
-
- <details>
-<summary>📊 Github Stats</summary>
-
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/Anup-maurya/github-stats">
-<img src="https://github.com/Anup-maurya/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Anup-maurya/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/Anup-maurya/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/Anup-maurya/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
-</details>
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{anup-maurya}/count.svg)
 
 [website]: https://techarge.in
 [twitter]: https://twitter.com/AnupKum77071928
@@ -68,26 +52,22 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 [gmail]: https://9anup.maurya@gmail.com
 [linkedin]: https://www.linkedin.com/in/anupmaurya
 
-<h2>Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h2>
- 
- 
+
+<h3 align="center">Show some ❤️ by starring some of the repositories! </h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+<div>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=anup-maurya&theme=prussian&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anup-maurya&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
+</div><br>
 
 
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anup-maurya&show_icons=true&theme=dark&include_all_commits=true&hide=issues"  alt="anup-mauryai" /></td>
-   </td>
-  </tr>
-  <tr>
-  <td>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anup-maurya&theme=dark" alt="anup-mauryai" />
-  </td>
-  
-  </tr>
-   <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anup-maurya&show_icons=true&theme=dark&locale=en&layout=compact" alt="anup-maurya" />
-  </tr>
-</table>
+<!-- Readme Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anup-maurya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<!-- Profile Visitors Count -->
+<p align="center"> <img src="https://profile-counter.glitch.me/{anup-maurya}/count.svg" alt="anupmaurya" /></p>
 
 
 [![@theanupmaurya's Holopin board](https://holopin.me/theanupmaurya)](https://holopin.io/@theanupmaurya)
