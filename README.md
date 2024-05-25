@@ -1,10 +1,16 @@
-# <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Kumar Maurya
+### <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Kumar Maurya
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
 ![alt text](https://github.com/Anup-maurya/Anup-maurya/blob/main/cover2.png) 
 
 
-## Connect with me
+### Connect with me
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+
 [<img height="30" src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white" />][website]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
