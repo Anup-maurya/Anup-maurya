@@ -55,6 +55,10 @@
 
 <h3 align="center">Show some ❤️ by starring some of the repositories! </h3>
 
+
+<!-- Profile Visitors Count -->
+<p align="center"> <img src="https://profile-counter.glitch.me/{anup-maurya}/count.svg" alt="anupmaurya" /></p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div>
@@ -66,8 +70,6 @@
 <!-- Readme Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anup-maurya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<!-- Profile Visitors Count -->
-<p align="center"> <img src="https://profile-counter.glitch.me/{anup-maurya}/count.svg" alt="anupmaurya" /></p>
 
 
 [![@theanupmaurya's Holopin board](https://holopin.me/theanupmaurya)](https://holopin.io/@theanupmaurya)
